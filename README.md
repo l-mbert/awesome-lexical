@@ -1,4 +1,4 @@
-## **Awesome Lexical** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+## **Awesome Lexical** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome things related to the Lexical ecosystem
 
@@ -20,10 +20,10 @@ This also means, that this list is currently quite empty and will fill over time
 
 #### Lexical General Resources
 
-- [Lexical Official Website](https://lexical.dev/)
+- [Lexical Official Website](https://lexical.dev)
 - [Lexical Documentation](https://lexical.dev/docs/intro)
 - [Lexical GitHub](https://github.com/facebook/lexical)
 
 #### Lexical Online Playgrounds
 
-- [Lexical Playground](https://playground.lexical.dev/)
+- [Lexical Playground](https://playground.lexical.dev)
